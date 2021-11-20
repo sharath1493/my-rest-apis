@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "firstname": "Peter",
+      "role": "Toby",
+      "lastname": "Parker",
+      "subjectId": "3",
+      "id": 1
+    },
+    {
+      "firstname": "Peter",
+      "role": "Andrew",
+      "lastname": "Parker",
+      "subjectId": "2",
+      "id": 2
+    },
+    {
+      "firstname": "Peter",
+      "role": "Tom",
+      "lastname": "Parker",
+      "subjectId": "3",
+      "id": 3
+    },
+    {
+      "firstname": "Johnny",
+      "role": "WK-Batsman",
+      "lastname": "Bairstow",
+      "subjectId": "2",
+      "id": 5
+    },
+    {
+      "firstname": "Johnny",
+      "role": "Opening-Batsman",
+      "laststname": "Bairstow",
+      "subjectId": "2",
+      "id": 6
+    },
+    {
+      "firstname": "Johnny",
+      "role": "Middle-Order-Batsman",
+      "laststname": "Bairstow",
+      "subjectId": "2",
+      "id": 7
+    }
+  ],
+  "subjects": [
+    {
+      "name": "Good",
+      "id": "1"
+    },
+    {
+      "name": "Amazing",
+      "id": "2"
+    },
+    {
+      "name": "Multiverse",
+      "id": "3"
+    }
+  ]
+}
